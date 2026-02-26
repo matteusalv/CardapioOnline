@@ -62,7 +62,7 @@ h2 {
     width: 400px;
 }
 
-.btn {
+.btn{
     width: 150px;
     background-color: #ffae00;
     padding: 20px;
@@ -71,3 +71,8 @@ h2 {
     color: #ffff;
 }
 
+.btn:hover{
+    background-color: #feae00;
+    cursor: pointer;
+    font-weight: bolder;
+}
